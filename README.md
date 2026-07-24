@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [1748-sum-of-unique-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 ## Binary Search
 |  |
