@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -56,9 +57,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
