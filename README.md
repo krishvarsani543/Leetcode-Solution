@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1748-sum-of-unique-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
+| [3731-find-missing-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
+| [3731-find-missing-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
