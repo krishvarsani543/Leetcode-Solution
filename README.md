@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
