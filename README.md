@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0877-stone-game) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Linked List
