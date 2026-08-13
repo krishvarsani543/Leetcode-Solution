@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0682-baseball-game) |
