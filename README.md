@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
+| [2706-buy-two-chocolates](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [3731-find-missing-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0414-third-maximum-number) |
+| [2706-buy-two-chocolates](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
