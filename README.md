@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0877-stone-game) |
+| [2235-add-two-integers](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
