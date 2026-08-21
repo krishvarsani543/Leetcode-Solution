@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0877-stone-game) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [2706-buy-two-chocolates](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0414-third-maximum-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3731-find-missing-elements) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
