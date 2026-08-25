@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [2706-buy-two-chocolates](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
