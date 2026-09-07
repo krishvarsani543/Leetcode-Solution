@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2706-buy-two-chocolates](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3843-first-element-with-unique-frequency) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3843-first-element-with-unique-frequency](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3843-first-element-with-unique-frequency) |
 ## Bit Manipulation
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2706-buy-two-chocolates](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3731-find-missing-elements) |
