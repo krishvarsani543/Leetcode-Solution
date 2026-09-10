@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2706-buy-two-chocolates](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Floyd's Cycle Finding Algorithm
