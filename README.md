@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0100-same-tree) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
