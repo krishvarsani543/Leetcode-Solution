@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1669-merge-in-between-linked-lists) |
 ## Recursion
 |  |
 | ------- |
