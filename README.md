@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
