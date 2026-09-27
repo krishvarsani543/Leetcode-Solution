@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0495-teemo-attacking) |
+| [0643-maximum-average-subarray-i](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1207-unique-number-of-occurrences) |
@@ -288,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
