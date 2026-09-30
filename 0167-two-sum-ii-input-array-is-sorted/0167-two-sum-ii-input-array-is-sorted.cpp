@@ -6,13 +6,12 @@ public:
         int r = num.size() - 1;
       
         while (l <= r) {
-         int sum=num[l]+num[r];
-         if(sum==target)
-            return {l+1,r+1};
-        else if(sum<target)
-            l++;
-        else
-            r--;
+            if (num[l] + num[r] == target) {
+                return {l+1,r+1};
+            } else if (num[l] + num[r] > target)
+                r--;
+            else
+                l++;
         }
         return {};
     }
