@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0260-single-number-iii) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
