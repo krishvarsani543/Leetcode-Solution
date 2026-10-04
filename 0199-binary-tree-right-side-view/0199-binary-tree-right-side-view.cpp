@@ -11,32 +11,20 @@
  */
 class Solution {
 public:
-void solution(TreeNode* root,vector<int>&ans){
-    if(root==NULL)return;
-    queue<TreeNode*>q;
-    q.push(root);
-     int leval=0;
-    
-    while(!q.empty()){
-        int n=q.size();
-        map<int,TreeNode*>m;
-   
-    leval++;
-        for(int i=0;i<n;i++){
-            TreeNode* val=q.front();
-            q.pop();
-            m[leval]=val;
-         if(val->left)q.push(val->left);
-         if(val->right)q.push(val->right);
-        }
-ans.push_back(m[leval]->val);
-   
+
+    vector<int>sol(TreeNode* root,vector<int>&ans,int count){
+             if(root==NULL)return {};
+     
+     
+       if(count==ans.size()){
+        ans.push_back(root->val);
+       }
+       sol(root->right,ans,count+1);
+        sol(root->left,ans,count+1);
+return ans;
     }
-}
     vector<int> rightSideView(TreeNode* root) {
         vector<int>ans;
-        solution(root,ans);
-        return ans;
-
+       return sol(root,ans,0);
     }
 };
