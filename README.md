@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0495-teemo-attacking) |
 | [0643-maximum-average-subarray-i](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -301,10 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
+| [0695-max-area-of-island](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [1672-richest-customer-wealth](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
 ## DP on Trees
 |  |
@@ -340,4 +344,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
