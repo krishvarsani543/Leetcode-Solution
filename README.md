@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2706-buy-two-chocolates](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2706-buy-two-chocolates](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
