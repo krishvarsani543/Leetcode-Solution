@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0268-missing-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/2235-add-two-integers) |
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/krishvarsani543/Leetcode-Solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
