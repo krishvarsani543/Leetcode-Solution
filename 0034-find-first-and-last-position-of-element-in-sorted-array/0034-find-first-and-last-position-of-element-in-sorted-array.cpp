@@ -1,52 +1,51 @@
 class Solution {
 public:
-int binary(vector<int>& nums, int target){
-    int low=0;
-        int high=nums.size()-1;
-        int ans=-1;
-         while(low<=high){
-            int mid=low+(high-low)/2;
-            if(target==nums[mid]){
-              ans=mid;
-              high=mid-1;
-            }
-            else if(target>nums[mid]){
-                low=mid+1;
-            }
-            else{
-                high=mid-1;
-            }
+int first(vector<int>& nums, int target){
+    int s=0;
+    int e=nums.size()-1;
+    int ans=-1;
+    while(s<=e){
+        int mid=s+(e-s)/2;
+        if(nums[mid]==target){
+           ans=mid;
+           e=mid-1;
         }
-        return ans;
-
+        else if(nums[mid]>target){
+            e=mid-1;
+        }
+        else{
+            s=mid+1;
+        }
+        
+    }
+    return ans;
 }
-int binarylast(vector<int>& nums, int target){
-    int low=0;
-        int high=nums.size()-1;
-        int ans=-1;
-         while(low<=high){
-            int mid=low+(high-low)/2;
-            if(target==nums[mid]){
-              ans=mid;
-              low=mid+1;
-            }
-            else if(target>nums[mid]){
-                low=mid+1;
-            }
-            else{
-                high=mid-1;
-            }
+int second(vector<int>& nums, int target){
+    int s=0;
+    int e=nums.size()-1;
+    int ans=-1;
+    while(s<=e){
+        int mid=s+(e-s)/2;
+        if(nums[mid]==target){
+           ans=mid;
+           s=mid+1;
         }
-        return ans;
-
+        else if(nums[mid]>target){
+            e=mid-1;
+        }
+        else{
+            s=mid+1;
+        }
+        
+    }
+    return ans;
 }
     vector<int> searchRange(vector<int>& nums, int target) {
-        int low=0;
-        int high=nums.size()-1;
-        
-        int first=binary(nums, target);
-        int last=binarylast(nums,target);
-        return {first,last};
-       
+        vector<int>ans;
+        int x=first(nums,target);
+        int y=second(nums,target);
+        ans.push_back(x);
+        ans.push_back(y);
+        return ans;
     }
 };
